@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Plagiarism Project, Machine Learning Deployment
 
 This repository contains code and associated files for deploying a plagiarism detector using AWS SageMaker.
@@ -32,6 +31,3 @@ This project will be broken down into three main notebooks:
 
 Please see the [README](https://github.com/udacity/ML_SageMaker_Studies/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
 
-=======
-# Plagiarism_Detection
->>>>>>> 62879a2fa48476ca025cc8c810bf73861b1ae193
